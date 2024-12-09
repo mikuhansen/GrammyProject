@@ -4,7 +4,10 @@ The Recording Academy & Grammy's Website Audience Analysis
 From the Global Career Accelerator - Coding for Data track
 
 About:
-Analyzing website engagement data to better understand audience activity and behavior to determine if the websites should stay separate or to combine them to optimize engagement
+Analyzing website engagement data to understand audience activity and behavior better 
+
+Objective:
+Optimize engagement by determining if the two websites should stay separate or to combine them into one website
 
 Data from:
 - grammy.com
